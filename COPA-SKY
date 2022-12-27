@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="https://www.soyfutbol.com/__export/1672068875314/sites/debate/img/2022/12/26/santos_tigress.jpg_1834093470.jpg", TIGRES-SANTOS
 http://flash.shortgod.com/perut39/tv5.php?id=10256
 
-#EXTINF:-1, AMERICA-CRUZ AZUL
+#EXTINF:-1 tvg-logo= "https://vamoscruzazul.bolavip.com/_next/image?url=https%3A%2F%2Fbolavip.com%2F__export%2F1671912794472%2Fsites%2Fbolavip%2Fimg%2F2022%2F12%2F24%2Fcruz_azul_vs_america.jpg_1546398727.jpg&w=1920&q=75", AMERICA-CRUZ AZUL
 http://flash.shortgod.com/perut39/tv5.php?id=30378
 
-#EXTINF:-1, ATLAS-CHIVAS
+#EXTINF:-1 tvg-logo= "https://www.soyfutbol.com/__export/1672068324057/sites/debate/img/2022/12/26/chivas_atlas.jpg_1834093470.jpg", ATLAS-CHIVAS
 http://flash.shortgod.com/perut39/tv5.php?id=10256
 
 
