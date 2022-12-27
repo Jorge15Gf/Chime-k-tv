@@ -1,12 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 COPA SKY
-http://flash.shortgod.com/shortgodpecausa/tv5.php?id=37843
+#EXTINF:-1 TIGRES-SANTOS
+http://flash.shortgod.com/shortgodpecausa/tv5.php?id=10256
 
-#EXTINF:-1 DIRECTV
-http://flash.shortgod.com/shortgodpecausa/tv5.php?id=37843
-
-#EXTINF:-1, WIN SPORT
-http://flash.shortgod.com/shortgodpecausa/tv5.php?id=37844
-
-#EXTINF:-1, BEIN SPORTS
-http://flash.shortgod.com/shortgodpecausa/tv5.php?id=37846
+#EXTINF:-1, AMERICA-CRUZ AZUL
+http://flash.shortgod.com/shortgodpecausa/tv5.php?id=30378
