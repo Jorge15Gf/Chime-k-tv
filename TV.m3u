@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Espn 1
-http://pe.shortgod.com/temporal/play.php?id=158
+
+http://pe.shortgod.com/wow/play.php?id=158
 
 #EXTINF:-1,Espn 2
 http://pe.shortgod.com/temporal/play.php?id=18
